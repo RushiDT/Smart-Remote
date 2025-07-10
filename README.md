@@ -21,53 +21,28 @@ Component
 
 Quantity
 
-NodeMCU ESP8266 (LOLIN)
+NodeMCU ESP8266 (LOLIN) 1
 
-1
+IR LED 1
 
-IR LED
+2N2222 NPN Transistor 1
 
-1
+220 ohm resistor 1
 
-2N2222 NPN Transistor
+Jumper wires As needed
 
-1
+Breadboard 1
 
-220 ohm resistor
-
-1
-
-Jumper wires
-
-As needed
-
-Breadboard
-
-1
-
-USB power supply (5V/2A)
-
-1
+USB power supply (5V/2A) 1
 
 ⚙️ Pin Configuration
+Function     |   NodeMCU Pin
+IR Transmit  |   D1 (GPIO5)
+GND          |   G
+VCC (3.3V)   |   3V
 
-Function
-
-NodeMCU Pin
-
-IR Transmit
-
-D1 (GPIO5)
-
-GND
-
-G
-
-VCC (3.3V)
-
-3V
-
-🔌 Wiring Diagram
+ 
+ ===================Wiring=============== 
 
 IR LED anode → Collector of 2N2222
 
