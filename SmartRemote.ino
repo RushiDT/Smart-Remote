@@ -5,11 +5,11 @@
 #include <SinricPro.h>
 #include <SinricProFanUS.h>
 
-#define WIFI_SSID         "thakre_home"
-#define WIFI_PASS         "rushi@7728"
-#define APP_KEY           "7715d9e4-d2ca-42e0-aaed-ac9961737043"
-#define APP_SECRET        "e7007719-5f70-4140-9afa-bb69ba32a0c5-bb76c4d2-fc4f-49a5-b628-414e9945303a"
-#define DEVICE_ID         "6848836d929fca430250d6dd"
+#define WIFI_SSID         "Your Wifi name "
+#define WIFI_PASS         "wifi password "
+#define APP_KEY           "Sinric Pro APP KEY"
+#define APP_SECRET        "Sinric Pro Secret key "
+#define DEVICE_ID         "Device ID From Sinric Pro"
 
 #define IR_LED_PIN        D1
 
